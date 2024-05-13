@@ -1,0 +1,7 @@
+These are my numerical analysis class's experiments.
+It contains 5 experiments as below.
+1.The Gaussian principal element elimination method solves a system of linear equations
+2.Spline interpolation
+3.Romberg algorithm
+4.4th order of Longekatu method
+5.Newton's iterative method solves the root of a system of equations
